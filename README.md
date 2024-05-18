@@ -54,8 +54,8 @@
 <p><strong>Result:</strong></p>
 
 <div align = "center">
-  <img class="image" src="imagem1.jpg" alt="Imagem 1">
-  <img class="image" src="imagem2.jpg" alt="Imagem 2">
+  <img width = 350 src="original.png" alt="Imagem 1">
+  <img width = 350 src="modificada.png" alt="Imagem 2">
 </div>
 
 </body>
