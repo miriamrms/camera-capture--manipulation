@@ -49,7 +49,7 @@
 <li>Wait for the windows displaying the different frame versions and the saved images in PNG format.</li>
 </ul>
 
-<p><strong>Note:</strong> This program can serve as a great foundation for real-time video processing projects, object detection, pattern recognition, and much more, leveraging the powerful OpenCV library.</p>
+<p><strong>Note:</strong> The <code>cv2.waitKey(0)</code> will pause your code run until you press any key with the image window opened.</p>
 
 </body>
 </html>
