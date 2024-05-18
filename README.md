@@ -8,6 +8,23 @@
 
 <p>This OpenCV program is designed to capture a frame of video from the computer's webcam, display different versions of this frame in separate windows, and save both the original frame and the modified versions in grayscale, red, green, and blue as PNG images.</p>
 
+<h2>Challenge:</h2>
+<p>This OpenCV program is designed to accomplish the following tasks:</p>
+
+<ol>
+  <li><strong>Capture a frame from the webcam video:</strong></li>
+  <li><strong>Display different versions of the frame in separate windows:</strong>
+    <ul>
+      <li>a) in grayscale</li>
+      <li>b) in red</li>
+      <li>c) in green</li>
+      <li>d) in blue</li>
+    </ul>
+  </li>
+  <li><strong>Save the captured original frame and the modified frames as PNG images.</strong></li>
+  <li><strong>Remember to always release resources at the end.</strong></li>
+</ol>
+
 <h2>Features:</h2>
 <ol>
 <li><strong>Webcam Frame Capture:</strong> Utilizes the <code>cv2.VideoCapture()</code> function to initiate video capture from the computer's webcam. It then reads a frame of video using <code>cam.read()</code>.</li>
