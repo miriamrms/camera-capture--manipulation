@@ -51,5 +51,12 @@
 
 <p><strong>Note:</strong> The <code>cv2.waitKey(0)</code> will pause your code run until you press any key with the image window opened.</p>
 
+<p><strong>Result:</strong></p>
+
+<div align = "center">
+  <img class="image" src="imagem1.jpg" alt="Imagem 1">
+  <img class="image" src="imagem2.jpg" alt="Imagem 2">
+</div>
+
 </body>
 </html>
